@@ -26,7 +26,7 @@ The `cluster_test.go` file shows usage examples and also, performs testing of th
 
 Maintainer
 ----------
-Prateek Garg ( garg_prateek26[AT]yahoo[DOT]com )
+Prateek Garg ( gargprateek[DOT]iitb[AT]yahoo[DOT]com )
 
 Coding Style
 ------------
